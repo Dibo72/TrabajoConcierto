@@ -1,0 +1,1 @@
+Desarrolla una aplicación en Java que permita gestionar los conciertos ofrecidos por artistas y grupos musicales a lo largo de un año. La aplicación debe permitir gestionar información sobre artistas, conciertos y ventas de entradas utilizando una base de datos Oracle. 
